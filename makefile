@@ -1,9 +1,9 @@
 # Makefile for propilot ai Electron App - Build, Lint, Test, and Clean
-
+ 
 REPORT_PORTAL_URL ?= ""
 REPORT_PORTAL_API_KEY ?= ""
 REPORT_PORTAL_PROJECT_NAME ?= ""
-REPORT_PORTAL_LAUNCH_NAME ?= "web4est App"
+REPORT_PORTAL_LAUNCH_NAME ?= "propilot App"
 REPORT_PORTAL_DESCRIPTION ?= "propilot App report"
 
 # Default target, does nothing
